@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "09-05-2026",
-  "forecast_period": "09th May (08.30IST) to 11th May (08.30IST) 2026",
+  "date": "18-05-2026",
+  "forecast_period": "18th May (08.30IST) to 20th May (08.30IST) 2026",
   "data": [
     {
-      "day": "09 May",
-      "rainfall": 4.8,
-      "tmax": 34.2,
-      "tmin": 24.1,
+      "day": "18 May",
+      "rainfall": 0.4,
+      "tmax": 39.0,
+      "tmin": 28.0,
+      "rhmax": 88,
+      "rhmin": 50,
+      "wind": "40-50",
+      "warning": ""
+    },
+    {
+      "day": "19 May",
+      "rainfall": 1.2,
+      "tmax": 38.8,
+      "tmin": 28.2,
+      "rhmax": 90,
+      "rhmin": 48,
+      "wind": "30-40",
+      "warning": ""
+    },
+    {
+      "day": "20 May",
+      "rainfall": 0.0,
+      "tmax": 38.2,
+      "tmin": 28.8,
       "rhmax": 90,
       "rhmin": 50,
-      "wind": "35-45",
-      "warning": "Thunderstorm activity expected in between 05:45-10:00 PM (evening)"
-    },
-    {
-      "day": "10 May",
-      "rainfall": 3.0,
-      "tmax": 34.0,
-      "tmin": 23.8,
-      "rhmax": 93,
-      "rhmin": 48,
-      "wind": "40-50",
-      "warning": "Thunderstorm activity expected in between 04:45-08:30 PM (afternoon /evening)"
-    },
-    {
-      "day": "11 May",
-      "rainfall": 3.8,
-      "tmax": 33.1,
-      "tmin": 24.0,
-      "rhmax": 94,
-      "rhmin": 51,
       "wind": "30-35",
-      "warning": "Thunderstorm activity expected in between 02:45-06:00 PM (afternoon /evening)"
+      "warning": ""
     }
   ]
 }
