@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "18-05-2026",
-  "forecast_period": "18th May (08.30IST) to 20th May (08.30IST) 2026",
+  "date": "14-04-2026",
+  "forecast_period": "14th April (08.30IST) to 16th April (08.30IST) 2026",
   "data": [
     {
-      "day": "18 May",
-      "rainfall": 0.4,
-      "tmax": 39.0,
-      "tmin": 28.0,
-      "rhmax": 88,
-      "rhmin": 50,
-      "wind": "40-50",
-      "warning": ""
-    },
-    {
-      "day": "19 May",
-      "rainfall": 1.2,
-      "tmax": 38.8,
-      "tmin": 28.2,
-      "rhmax": 90,
-      "rhmin": 48,
-      "wind": "30-40",
-      "warning": ""
-    },
-    {
-      "day": "20 May",
+      "day": "14 Apr",
       "rainfall": 0.0,
-      "tmax": 38.2,
-      "tmin": 28.8,
-      "rhmax": 90,
-      "rhmin": 50,
-      "wind": "30-35",
-      "warning": ""
+      "tmax": 40.0,
+      "tmin": 26.0,
+      "rhmax": 86,
+      "rhmin": 25,
+      "wind": "15-25",
+      "warning": "Maximum temperature may touch 40\u00b0C, please take necessary precautions to stay safe in the heat."
+    },
+    {
+      "day": "15 Apr",
+      "rainfall": 0.0,
+      "tmax": 40.2,
+      "tmin": 26.3,
+      "rhmax": 85,
+      "rhmin": 28,
+      "wind": "20-30",
+      "warning": "Maximum temperature may touch 40-41\u00b0C, please take necessary precautions to stay safe in the heat."
+    },
+    {
+      "day": "16 Apr",
+      "rainfall": 0.0,
+      "tmax": 37.5,
+      "tmin": 26.0,
+      "rhmax": 89,
+      "rhmin": 48,
+      "wind": "25-35",
+      "warning": "Very high humidity together with warm temperatures will result in dangerously high heat index values (42-46\u00b0C). These conditions may lead to heat discomfort and dehydration, particularly for outdoor workers and vulnerable individuals"
     }
   ]
 }
