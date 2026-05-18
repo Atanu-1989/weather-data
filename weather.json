@@ -1,36 +1,36 @@
 {
   "location": "Barasat",
-  "date": "18-05-2026",
-  "forecast_period": "18th May (08.30IST) to 20th May (08.30IST) 2026",
+  "date": "17-05-2026",
+  "forecast_period": "17th May (08.30IST) to 19th May (08.30IST) 2026",
   "data": [
     {
-      "day": "18 May",
-      "rainfall": 0.4,
-      "tmax": 39.0,
+      "day": "17 May",
+      "rainfall": 1.2,
+      "tmax": 39.1,
       "tmin": 28.0,
       "rhmax": 88,
-      "rhmin": 50,
-      "wind": "40-50",
-      "warning": ""
-    },
-    {
-      "day": "19 May",
-      "rainfall": 1.2,
-      "tmax": 38.8,
-      "tmin": 28.2,
-      "rhmax": 90,
-      "rhmin": 48,
+      "rhmin": 47,
       "wind": "30-40",
       "warning": ""
     },
     {
-      "day": "20 May",
-      "rainfall": 0.0,
-      "tmax": 38.2,
-      "tmin": 28.8,
+      "day": "18 May",
+      "rainfall": 12.0,
+      "tmax": 38.9,
+      "tmin": 28.1,
       "rhmax": 90,
-      "rhmin": 50,
-      "wind": "30-35",
+      "rhmin": 46,
+      "wind": "35-45",
+      "warning": "Thunderstorm activity expected in between 04:30-09:30 PM (evening/night)"
+    },
+    {
+      "day": "19 May",
+      "rainfall": 0.1,
+      "tmax": 38.6,
+      "tmin": 28.3,
+      "rhmax": 89,
+      "rhmin": 46,
+      "wind": "30-40",
       "warning": ""
     }
   ]
