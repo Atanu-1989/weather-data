@@ -1,36 +1,36 @@
 {
   "location": "Barasat",
-  "date": "18-05-2026",
-  "forecast_period": "18th May (08.30IST) to 20th May (08.30IST) 2026",
+  "date": "20-05-2026",
+  "forecast_period": "20th May (08.30IST) to 22nd May (08.30IST) 2026",
   "data": [
-    {
-      "day": "18 May",
-      "rainfall": 0.4,
-      "tmax": 39.0,
-      "tmin": 28.0,
-      "rhmax": 88,
-      "rhmin": 50,
-      "wind": "40-50",
-      "warning": ""
-    },
-    {
-      "day": "19 May",
-      "rainfall": 1.2,
-      "tmax": 38.8,
-      "tmin": 28.2,
-      "rhmax": 90,
-      "rhmin": 48,
-      "wind": "30-40",
-      "warning": ""
-    },
     {
       "day": "20 May",
       "rainfall": 0.0,
-      "tmax": 38.2,
-      "tmin": 28.8,
-      "rhmax": 90,
-      "rhmin": 50,
-      "wind": "30-35",
+      "tmax": 40.0,
+      "tmin": 28.3,
+      "rhmax": 88,
+      "rhmin": 51,
+      "wind": "20-30",
+      "warning": ""
+    },
+    {
+      "day": "21 May",
+      "rainfall": 0.2,
+      "tmax": 41.0,
+      "tmin": 28.5,
+      "rhmax": 87,
+      "rhmin": 51,
+      "wind": "25-35",
+      "warning": "There is also 60% chance for light rainfall activity rain in between 07:45-10:45 PM (evening)"
+    },
+    {
+      "day": "22 May",
+      "rainfall": 0.0,
+      "tmax": 40.0,
+      "tmin": 28.1,
+      "rhmax": 88,
+      "rhmin": 54,
+      "wind": "25-35",
       "warning": ""
     }
   ]
