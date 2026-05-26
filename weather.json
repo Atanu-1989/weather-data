@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "21-05-2026",
-  "forecast_period": "21st May (08.30IST) to 23rd May (08.30IST) 2026",
+  "date": "25-05-2026",
+  "forecast_period": "25 May (08.30IST) to 27 May (08.30IST) 2026",
   "data": [
     {
-      "day": "21 May",
-      "rainfall": 0.4,
-      "tmax": 40.4,
-      "tmin": 28.0,
+      "day": "25 May",
+      "rainfall": 0.0,
+      "tmax": 39.0,
+      "tmin": 28.3,
       "rhmax": 88,
-      "rhmin": 51,
-      "wind": "25-35",
-      "warning": "There is also chance for drizzle/light rainfall activity in between 06:30-10:30 PM (evening)"
+      "rhmin": 49,
+      "wind": "35-45",
+      "warning": ""
     },
     {
-      "day": "22 May",
-      "rainfall": 1.2,
-      "tmax": 39.8,
-      "tmin": 28.3,
+      "day": "26 May",
+      "rainfall": 0.0,
+      "tmax": 38.3,
+      "tmin": 28.2,
+      "rhmax": 90,
+      "rhmin": 51,
+      "wind": "35-45",
+      "warning": ""
+    },
+    {
+      "day": "27 May",
+      "rainfall": 6.2,
+      "tmax": 37.8,
+      "tmin": 28.0,
       "rhmax": 89,
       "rhmin": 53,
-      "wind": "30-40",
-      "warning": "Thunderstorm activity expected in between 05:30-09:45 PM (evening/night)"
-    },
-    {
-      "day": "23 May",
-      "rainfall": 0.0,
-      "tmax": 39.1,
-      "tmin": 28.0,
-      "rhmax": 90,
-      "rhmin": 55,
-      "wind": "35-40",
-      "warning": "Hot and Humid Weather"
+      "wind": "35-45",
+      "warning": "Thunderstorm activity expected in between 06:00-09:30 PM (evening/night)"
     }
   ]
 }
