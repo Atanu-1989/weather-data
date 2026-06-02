@@ -1,77 +1,37 @@
 {
   "location": "Barasat",
-  "date": "01-06-2026",
-  "forecast_period": "01 June (08.30IST) to 07 June (08.30IST) 2026",
+  "date": "02-06-2026",
+  "forecast_period": "02 June (08.30IST) to 04 June (08.30IST) 2026",
   "data": [
     {
-      "day": "01 Jun",
-      "rainfall": 0.8,
+      "day": "02 June",
+      "rainfall": 0.2,
       "tmax": 35.0,
-      "tmin": 28.4,
-      "rhmax": 91,
-      "rhmin": 56,
-      "wind": "30-35",
-      "warning": "60% chance for drizzle/light rainfall activity in between 13:45-18:45 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "02 Jun",
-      "rainfall": 0.0,
-      "tmax": 35.2,
       "tmin": 27.6,
       "rhmax": 90,
-      "rhmin": 51,
+      "rhmin": 53,
       "wind": "25-35",
       "warning": ""
     },
     {
-      "day": "03 Jun",
-      "rainfall": 0.8,
-      "tmax": 36.5,
-      "tmin": 28.1,
-      "rhmax": 91,
-      "rhmin": 52,
-      "wind": "30-40",
-      "warning": "60% chance of Thunderstorm activity expected in between 13:30-17:30 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "04 Jun",
-      "rainfall": 2.4,
-      "tmax": 36.7,
-      "tmin": 28.5,
-      "rhmax": 91,
+      "day": "03 June",
+      "rainfall": 0.4,
+      "tmax": 36.2,
+      "tmin": 27.9,
+      "rhmax": 90,
       "rhmin": 54,
-      "wind": "35-45",
-      "warning": "Thunderstorm activity expected in between 12:30-17:00 PM (Afternoon/Evening)"
+      "wind": "25-35",
+      "warning": ""
     },
     {
-      "day": "05 Jun",
-      "rainfall": 5.4,
-      "tmax": 35.2,
-      "tmin": 27.4,
-      "rhmax": 93,
-      "rhmin": 61,
-      "wind": "50-60",
-      "warning": "Thunderstorm activity expected in between 04:00-10:30 AM (Early Morning)"
-    },
-    {
-      "day": "06 Jun",
-      "rainfall": 2.6,
-      "tmax": 36.3,
-      "tmin": 26.8,
-      "rhmax": 93,
-      "rhmin": 59,
-      "wind": "45-50",
-      "warning": "Thunderstorm activity expected in between 09:30 AM-14:30 PM (Morning/Afternoon)"
-    },
-    {
-      "day": "07 Jun",
-      "rainfall": 0.6,
-      "tmax": 37.0,
-      "tmin": 27.7,
-      "rhmax": 93,
-      "rhmin": 60,
-      "wind": "30-35",
-      "warning": "Drizzle/Light rainfall activity expected in between 06:00-09:30 AM (Early Morning)"
+      "day": "04 June",
+      "rainfall": 5.8,
+      "tmax": 36.6,
+      "tmin": 28.2,
+      "rhmax": 92,
+      "rhmin": 54,
+      "wind": "40-50",
+      "warning": "Thunderstorm activity expected in between 12:30-17:30 PM (Afternoon/Evening)"
     }
   ]
 }
