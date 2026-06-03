@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "02-06-2026",
-  "forecast_period": "02 June (08.30IST) to 04 June (08.30IST) 2026",
+  "date": "03-06-2026",
+  "forecast_period": "03 June (08.30IST) to 05 June (08.30IST) 2026",
   "data": [
     {
-      "day": "02 June",
-      "rainfall": 0.2,
-      "tmax": 35.0,
-      "tmin": 27.6,
-      "rhmax": 90,
-      "rhmin": 53,
-      "wind": "25-35",
-      "warning": ""
-    },
-    {
       "day": "03 June",
-      "rainfall": 0.4,
+      "rainfall": 0.1,
       "tmax": 36.2,
-      "tmin": 27.9,
-      "rhmax": 90,
-      "rhmin": 54,
+      "tmin": 28.0,
+      "rhmax": 89,
+      "rhmin": 51,
       "wind": "25-35",
       "warning": ""
     },
     {
       "day": "04 June",
-      "rainfall": 5.8,
-      "tmax": 36.6,
-      "tmin": 28.2,
-      "rhmax": 92,
-      "rhmin": 54,
+      "rainfall": 4.9,
+      "tmax": 35.9,
+      "tmin": 28.4,
+      "rhmax": 93,
+      "rhmin": 58,
       "wind": "40-50",
-      "warning": "Thunderstorm activity expected in between 12:30-17:30 PM (Afternoon/Evening)"
+      "warning": "Thunderstorm activity expected in between 13:30-19:30 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "05 June",
+      "rainfall": 12.0,
+      "tmax": 35.1,
+      "tmin": 28.3,
+      "rhmax": 93,
+      "rhmin": 59,
+      "wind": "45-55",
+      "warning": "Thunderstorm activity expected in between 06:30-10:30 AM (Morning)"
     }
   ]
 }
