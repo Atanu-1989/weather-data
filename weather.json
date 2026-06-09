@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "08-06-2026",
-  "forecast_period": "08 June (08.30IST) to 10 June (08.30IST) 2026",
+  "date": "09-06-2026",
+  "forecast_period": "09 June (08.30IST) to 11 June (08.30IST) 2026",
   "data": [
     {
-      "day": "08 June",
-      "rainfall": 0.4,
-      "tmax": 36.7,
-      "tmin": 27.1,
+      "day": "09 June",
+      "rainfall": 3.8,
+      "tmax": 38.5,
+      "tmin": 28.8,
       "rhmax": 94,
       "rhmin": 49,
-      "wind": "20-30",
-      "warning": ""
-    },
-    {
-      "day": "09 June",
-      "rainfall": 5.2,
-      "tmax": 38.6,
-      "tmin": 29.0,
-      "rhmax": 94,
-      "rhmin": 46,
-      "wind": "30-35",
-      "warning": "Thunderstorm activity expected in between 16:15-19:30 PM (Afternoon/Evening)"
+      "wind": "30-40",
+      "warning": "Thunderstorm activity expected in between 04:00-07:45 PM (Afternoon/Evening)"
     },
     {
       "day": "10 June",
-      "rainfall": 4.4,
-      "tmax": 38.2,
-      "tmin": 28.0,
+      "rainfall": 1.6,
+      "tmax": 38.0,
+      "tmin": 28.2,
       "rhmax": 93,
-      "rhmin": 50,
+      "rhmin": 55,
       "wind": "30-40",
-      "warning": "Thunderstorm activity expected in between 15:15-20:00 PM (Afternoon/Evening)"
+      "warning": "Thunderstorm activity expected in between 03:30-08:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "11 June",
+      "rainfall": 9.4,
+      "tmax": 36.5,
+      "tmin": 26.7,
+      "rhmax": 94,
+      "rhmin": 62,
+      "wind": "30-40",
+      "warning": "Thunderstorm activity expected in between 01:45-07:30 PM (Afternoon/Evening)"
     }
   ]
 }
