@@ -1,37 +1,77 @@
 {
   "location": "Barasat",
-  "date": "16-06-2026",
-  "forecast_period": "16 June (08.30IST) to 18 June (08.30IST) 2026",
+  "date": "22-06-2026",
+  "forecast_period": "22 June (08.30IST) to 28 June (08.30IST) 2026",
   "data": [
     {
-      "day": "16 June",
-      "rainfall": 1.8,
-      "tmax": 36.5,
-      "tmin": 26.0,
-      "rhmax": 89,
-      "rhmin": 60,
-      "wind": "25-30",
-      "warning": "Light rainfall expected in between 02:45-06:15 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "17 June",
-      "rainfall": 2.1,
-      "tmax": 37.2,
-      "tmin": 26.4,
-      "rhmax": 86,
-      "rhmin": 60,
+      "day": "22 Jun",
+      "rainfall": 14.0,
+      "tmax": 34.1,
+      "tmin": 25.9,
+      "rhmax": 95,
+      "rhmin": 73,
       "wind": "30-35",
-      "warning": "Light rainfall expected in between 03:30-07:15 PM (Afternoon/Evening)"
+      "warning": "Severe thunderstorm expected in between 12:00-01:00 AM, 10:00 AM-03:00 PM (Night/Morning/Afternoon); Light rainfall expected in between 02:00-03:00 AM (Night)"
     },
     {
-      "day": "18 June",
-      "rainfall": 4.2,
-      "tmax": 38.7,
+      "day": "23 Jun",
+      "rainfall": 11.0,
+      "tmax": 33.8,
+      "tmin": 25.8,
+      "rhmax": 96,
+      "rhmin": 67,
+      "wind": "35-40",
+      "warning": "Severe thunderstorm expected in between 01:00-05:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "24 Jun",
+      "rainfall": 4.3,
+      "tmax": 34.4,
       "tmin": 27.2,
-      "rhmax": 88,
-      "rhmin": 49,
-      "wind": "30-40",
-      "warning": "Light rainfall expected in between 02:30-06:00 PM (Afternoon/Evening)"
+      "rhmax": 94,
+      "rhmin": 66,
+      "wind": "30-35",
+      "warning": "Light rainfall expected in between 03:00-06:00 AM (Night/Morning)"
+    },
+    {
+      "day": "25 Jun",
+      "rainfall": 4.0,
+      "tmax": 35.4,
+      "tmin": 26.5,
+      "rhmax": 90,
+      "rhmin": 66,
+      "wind": "30-35",
+      "warning": "Humid heat caution (Tw ≥ 28°C) during 09:00 AM-12:00 PM (Morning/Afternoon)"
+    },
+    {
+      "day": "26 Jun",
+      "rainfall": 2.1,
+      "tmax": 34.8,
+      "tmin": 26.4,
+      "rhmax": 91,
+      "rhmin": 68,
+      "wind": "30-35",
+      "warning": ""
+    },
+    {
+      "day": "27 Jun",
+      "rainfall": 3.6,
+      "tmax": 36.5,
+      "tmin": 26.8,
+      "rhmax": 91,
+      "rhmin": 69,
+      "wind": "30-35",
+      "warning": "Humid heat caution (Tw ≥ 28°C) during 12:00-01:00 PM (Afternoon)"
+    },
+    {
+      "day": "28 Jun",
+      "rainfall": 9.9,
+      "tmax": 36.6,
+      "tmin": 26.3,
+      "rhmax": 95,
+      "rhmin": 61,
+      "wind": "40-45",
+      "warning": "Humid heat caution (Tw ≥ 28°C) during 11:00 AM-02:00 PM (Morning/Afternoon); Severe thunderstorm expected in between 03:00-09:00 PM (Afternoon/Evening/Night)"
     }
   ]
 }
