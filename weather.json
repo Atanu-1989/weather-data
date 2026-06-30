@@ -1,40 +1,37 @@
 {
   "location": "Barasat",
-  "date": "23-06-2026",
-  "forecast_period": "23 June (08.30IST) to 25 June (08.30IST) 2026",
+  "date": "30-06-2026",
+  "forecast_period": "30 June (08.30IST) to 2 July (08.30IST) 2026",
   "data": [
     {
-      "day": "23 June",
-      "rainfall": 5.5,
-      "Feels Like (°C)":43,
-      "tmax": 35.1,
-      "tmin": 25.9,
-      "rhmax": 92,
-      "rhmin": 64,
-      "wind": "25-30",
-      "warning": "Light rainfall with thunder expected in between 02:30-05:30 PM (Afternoon/Evening)"
+      "day": "30 June",
+      "rainfall": 24.0,
+      "tmax": 31.0,
+      "tmin": 26.2,
+      "rhmax": 95,
+      "rhmin": 82,
+      "wind": "20-25",
+      "warning": "Thunderstorm expected in between 02:00-03:00 AM, 07:00 AM-03:00 PM (Night/Morning/Afternoon); Moderate rainfall expected in between 04:00-06:00 PM (Afternoon/Evening)"
     },
     {
-      "day": "24 June",
-      "rainfall": 0.8,
-      "Feels Like (°C)":43.7,
-      "tmax": 37.1,
-      "tmin": 26.8,
-      "rhmax": 91,
-      "rhmin": 63,
-      "wind": "35-40",
-      "warning": "60% chances for Light rainfall expected in between 03:30-06:00 PM (Afternoon/Evening)"
+      "day": "01 July",
+      "rainfall": 18.0,
+      "tmax": 32.1,
+      "tmin": 25.3,
+      "rhmax": 95,
+      "rhmin": 70,
+      "wind": "20-25",
+      "warning": "Thunderstorm expected in between 02:00-06:00 AM, 10:00 AM-12:00 PM (Night/Morning/Afternoon); Moderate rainfall expected in between 07:00-09:00 AM, 01:00-03:00 PM (Morning/Afternoon)"
     },
     {
-      "day": "25 June",
-      "rainfall": 0.8,
-      "Feels Like (°C)":43.1,
-      "tmax": 37.3,
-      "tmin": 26.9,
-      "rhmax": 89,
-      "rhmin": 63,
+      "day": "02 July",
+      "rainfall": 11.0,
+      "tmax": 34.2,
+      "tmin": 26.1,
+      "rhmax": 95,
+      "rhmin": 72,
       "wind": "30-35",
-      "warning": "Light rainfall activity expected in between 10:00 AM-01:00 PM (Morning/Afternoon)"
+      "warning": "Severe thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
     }
   ]
 }
