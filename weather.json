@@ -1,37 +1,68 @@
 {
   "location": "Barasat",
-  "date": "30-06-2026",
-  "forecast_period": "30 June (08.30IST) to 2 July (08.30IST) 2026",
+  "date": "06-07-2026",
+  "forecast_period": "6 July (08.30IST) to 12 July (08.30IST) 2026",
   "data": [
+ 
     {
-      "day": "30 June",
-      "rainfall": 24.0,
-      "tmax": 31.0,
-      "tmin": 26.2,
-      "rhmax": 95,
-      "rhmin": 82,
-      "wind": "20-25",
-      "warning": "Thunderstorm expected in between 02:00-03:00 AM, 07:00 AM-03:00 PM (Night/Morning/Afternoon); Moderate rainfall expected in between 04:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "01 July",
+      "day": "07 Jul",
       "rainfall": 18.0,
-      "tmax": 32.1,
-      "tmin": 25.3,
-      "rhmax": 95,
-      "rhmin": 70,
-      "wind": "20-25",
-      "warning": "Thunderstorm expected in between 02:00-06:00 AM, 10:00 AM-12:00 PM (Night/Morning/Afternoon); Moderate rainfall expected in between 07:00-09:00 AM, 01:00-03:00 PM (Morning/Afternoon)"
-    },
-    {
-      "day": "02 July",
-      "rainfall": 11.0,
-      "tmax": 34.2,
-      "tmin": 26.1,
+      "tmax": 31.9,
+      "tmin": 25.9,
       "rhmax": 95,
       "rhmin": 72,
+      "wind": "35-40",
+      "warning": "Thunderstorm expected in between 11:00 AM-02:00 PM (Morning/Afternoon); Moderate rainfall expected in between 12:00-05:00 AM, 09:00-10:00 AM, 03:00-06:00 PM (Night/Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "08 Jul",
+      "rainfall": 3.6,
+      "tmax": 32.6,
+      "tmin": 27.4,
+      "rhmax": 95,
+      "rhmin": 74,
+      "wind": "35-40",
+      "warning": "No Warning"
+    },
+    {
+      "day": "09 Jul",
+      "rainfall": 9.2,
+      "tmax": 32.0,
+      "tmin": 27.3,
+      "rhmax": 95,
+      "rhmin": 73,
       "wind": "30-35",
-      "warning": "Severe thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
+      "warning": "Light rainfall expected in between 06:00 AM-06:00 PM (Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "10 Jul",
+      "rainfall": 12.0,
+      "tmax": 32.5,
+      "tmin": 26.7,
+      "rhmax": 95,
+      "rhmin": 76,
+      "wind": "30-35",
+      "warning": "Thunderstorm expected in between 12:00-03:00 PM (Afternoon); Light rainfall expected in between 03:00-09:00 AM, 04:00-06:00 PM, 09:00 PM-12:00 AM (Night/Morning/Afternoon/Evening); Hot and humid weather: It may feel very hot and muggy. (IMD Heat Index ~46°C)"
+    },
+    {
+      "day": "11 Jul",
+      "rainfall": 21.0,
+      "tmax": 32.9,
+      "tmin": 26.3,
+      "rhmax": 95,
+      "rhmin": 72,
+      "wind": "25-30",
+      "warning": "Thunderstorm expected in between 12:00-03:00 AM, 06:00 PM-12:00 AM (Night/Evening); Moderate rainfall expected in between 04:00 AM-05:00 PM (Night/Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "12 Jul",
+      "rainfall": 8.9,
+      "tmax": 34.0,
+      "tmin": 26.5,
+      "rhmax": 95,
+      "rhmin": 68,
+      "wind": "20-25",
+      "warning": "Light rainfall expected in between 12:00-06:00 AM (Night/Morning); Hot and humid weather: It may feel very hot and muggy. (IMD Heat Index ~47°C)"
     }
   ]
 }
