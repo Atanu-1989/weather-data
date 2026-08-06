@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "05-08-2026",
-  "forecast_period": "5 August (08.30IST) to 7 August (08.30IST) 2026",
+  "date": "06-08-2026",
+  "forecast_period": "6 August (08.30IST) to 8 August (08.30IST) 2026",
   "data": [
     {
-      "day": "05 August",
-      "rainfall": 32.0,
-      "tmax": 31.8,
-      "tmin": 25.9,
-      "rhmax": 96,
-      "rhmin": 77,
-      "wind": "25-30",
-      "warning": "Severe thunderstorm expected in between 03:00-09:00 AM, 12:00 PM-12:00 AM (Night/Morning/Afternoon/Evening); Moderate rainfall expected in between 01:00-02:00 AM, 10:00-11:00 AM (Night/Morning)"
-    },
-    {
       "day": "06 August",
-      "rainfall": 43.0,
-      "tmax": 30.0,
-      "tmin": 25.1,
+      "rainfall": 8.1,
+      "tmax": 29.6,
+      "tmin": 25.8,
       "rhmax": 98,
-      "rhmin": 83,
-      "wind": "25-30",
-      "warning": "Thunderstorm expected in between 12:00-09:00 AM, 09:00-10:00 PM (Night/Morning); Moderate rainfall expected in between 10:00 AM-08:00 PM, 11:00 PM-12:00 AM (Morning/Afternoon/Evening/Night)"
+      "rhmin": 79,
+      "wind": "15-20",
+      "warning": "Light rainfall expected in between 12:00-02:00 AM, 11:00 AM-02:00 PM, 10:00 PM-12:00 AM (Night/Morning/Afternoon)"
     },
     {
       "day": "07 August",
-      "rainfall": 32.0,
-      "tmax": 30.3,
-      "tmin": 25.1,
-      "rhmax": 98,
-      "rhmin": 80,
+      "rainfall": 24.0,
+      "tmax": 30.2,
+      "tmin": 24.9,
+      "rhmax": 97,
+      "rhmin": 78,
       "wind": "25-30",
-      "warning": "Thunderstorm expected in between 06:00 AM-05:00 PM (Morning/Afternoon/Evening); Moderate rainfall expected in between 12:00-05:00 AM, 09:00 PM-12:00 AM (Night/Morning)"
+      "warning": "Thunderstorm expected in between 08:00-09:00 AM, 01:00-03:00 PM (Morning/Afternoon); Moderate rainfall expected in between 12:00-07:00 AM, 04:00-06:00 PM (Night/Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "08 August",
+      "rainfall": 6.0,
+      "tmax": 32.4,
+      "tmin": 25.5,
+      "rhmax": 95,
+      "rhmin": 72,
+      "wind": "30-35",
+      "warning": "Severe thunderstorm expected in between 01:00-03:00 PM (Afternoon); Light rainfall expected in between 11:00 AM-12:00 PM (Morning/Afternoon)"
     }
   ]
 }
