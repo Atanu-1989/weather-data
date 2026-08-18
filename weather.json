@@ -1,37 +1,77 @@
 {
   "location": "Barasat",
-  "date": "14-08-2026",
-  "forecast_period": "14 August (08.30IST) to 16 August (08.30IST) 2026",
+  "date": "17-08-2026",
+  "forecast_period": "17 August (08.30IST) to 23 August (08.30IST) 2026",
   "data": [
     {
-      "day": "14 August",
-      "rainfall": 7.4,
-      "tmax": 31.9,
-      "tmin": 25.9,
-      "rhmax": 92,
-      "rhmin": 74,
-      "wind": "35-40",
-      "warning": "Thunderstorm expected in between 02:00-03:00 PM (Afternoon); Light rainfall expected in between 08:00 AM-01:00 PM, 04:00-06:00 PM (Morning/Afternoon/Evening)"
-    },
-    {
-      "day": "15 August",
-      "rainfall": 20.0,
-      "tmax": 31.9,
-      "tmin": 25.2,
-      "rhmax": 96,
-      "rhmin": 73,
-      "wind": "30-35",
-      "warning": "Thunderstorm expected in between 05:00-08:00 AM, 12:00-03:00 PM (Morning/Afternoon); Moderate rainfall expected in between 12:00-04:00 AM, 10:00-11:00 AM, 04:00-09:00 PM (Night/Morning/Afternoon/Evening)"
-    },
-    {
-      "day": "16 August",
-      "rainfall": 15.0,
-      "tmax": 31.9,
+      "day": "17 Aug",
+      "rainfall": 49.0,
+      "tmax": 29.4,
       "tmin": 25.8,
-      "rhmax": 95,
+      "rhmax": 97,
+      "rhmin": 83,
+      "wind": "40-45",
+      "warning": "Moderate rain expected in between 08:00AM-07:30 PM (Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "18 Aug",
+      "rainfall": 11.0,
+      "tmax": 31.1,
+      "tmin": 25.3,
+      "rhmax": 96,
       "rhmin": 76,
+      "wind": "35-40",
+      "warning": "Thunderstorm expected in between 01:00-04:00 PM (Afternoon); Light rainfall expected in between 05:00-09:00 AM, 05:00-06:00 PM (Morning/Evening)"
+    },
+    {
+      "day": "19 Aug",
+      "rainfall": 8.0,
+      "tmax": 32.3,
+      "tmin": 26.1,
+      "rhmax": 95,
+      "rhmin": 73,
       "wind": "25-30",
-      "warning": "Thunderstorm expected in between 01:00-05:00 PM (Afternoon/Evening); Light rainfall expected in between 09:00 AM-12:00 PM, 06:00-07:00 PM (Morning/Afternoon/Evening)"
+      "warning": "Thunderstorm expected in between 12:00-05:00 PM (Afternoon/Evening); Light rainfall expected in between 10:00-11:00 AM (Morning)"
+    },
+    {
+      "day": "20 Aug",
+      "rainfall": 12.0,
+      "tmax": 32.6,
+      "tmin": 25.7,
+      "rhmax": 96,
+      "rhmin": 74,
+      "wind": "25-30",
+      "warning": "Thunderstorm expected in between 12:00-01:00 PM (Afternoon); Light rainfall expected in between 02:00-06:00 PM, 09:00 PM-12:00 AM (Afternoon/Evening/Night)"
+    },
+    {
+      "day": "21 Aug",
+      "rainfall": 12.0,
+      "tmax": 32.3,
+      "tmin": 25.9,
+      "rhmax": 96,
+      "rhmin": 75,
+      "wind": "25-30",
+      "warning": "Light rainfall expected in between 12:00-06:00 AM, 09:00 AM-06:00 PM (Night/Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "22 Aug",
+      "rainfall": 6.1,
+      "tmax": 33.0,
+      "tmin": 25.4,
+      "rhmax": 96,
+      "rhmin": 74,
+      "wind": "20-25",
+      "warning": "Light rainfall expected in between 12:00-06:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "23 Aug",
+      "rainfall": 17.0,
+      "tmax": 32.6,
+      "tmin": 25.1,
+      "rhmax": 96,
+      "rhmin": 75,
+      "wind": "20-25",
+      "warning": "Severe thunderstorm expected in between 12:00-06:00 AM, 12:00-06:00 PM (Night/Morning/Afternoon/Evening); Moderate rainfall expected in between 09:00-11:00 AM (Morning)"
     }
   ]
 }
