@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "18-08-2026",
-  "forecast_period": "18 August (08.30IST) to 20 August (08.30IST) 2026",
+  "date": "19-08-2026",
+  "forecast_period": "19 August (08.30IST) to 21 August (08.30IST) 2026",
   "data": [
     {
-      "day": "18 August",
-      "rainfall": 4.4,
-      "tmax": 30.8,
-      "tmin": 25.1,
-      "rhmax": 96,
-      "rhmin": 76,
-      "wind": "35-40",
-      "warning": "Thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
       "day": "19 August",
-      "rainfall": 10.0,
-      "tmax": 32.8,
-      "tmin": 25.8,
-      "rhmax": 93,
-      "rhmin": 74,
-      "wind": "30-35",
-      "warning": "Thunderstorm expected in between 11:00 AM-03:00 PM (Morning/Afternoon); Light rainfall expected in between 08:00-10:00 AM, 04:00-06:00 PM (Morning/Afternoon/Evening)"
+      "rainfall": 9.8,
+      "tmax": 32.6,
+      "tmin": 25.4,
+      "rhmax": 90,
+      "rhmin": 71,
+      "wind": "35-40",
+      "warning": "Thunderstorm expected in between 10:00 AM-12:00 PM (Morning/Afternoon); Light rainfall expected in betweens 01:00-04:00 PM (Night/Afternoon)"
     },
     {
       "day": "20 August",
-      "rainfall": 17.0,
-      "tmax": 32.4,
-      "tmin": 26.1,
+      "rainfall": 10.0,
+      "tmax": 33.5,
+      "tmin": 25.8,
       "rhmax": 95,
-      "rhmin": 74,
-      "wind": "30-35",
-      "warning": "Severe thunderstorm expected in between 12:00-04:00 PM (Afternoon); Moderate rainfall expected in between 01:00-03:00 AM, 09:00-11:00 AM, 05:00-06:00 PM (Night/Morning/Evening)"
+      "rhmin": 66,
+      "wind": "25-30",
+      "warning": "Severe thunderstorm expected in between 03:00-06:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "21 August",
+      "rainfall": 11.0,
+      "tmax": 33.4,
+      "tmin": 26.1,
+      "rhmax": 96,
+      "rhmin": 71,
+      "wind": "25-30",
+      "warning": "Thunderstorm expected in between 12:00-03:00 PM (Afternoon); Light rainfall expected in between 05:00-07:00 PM (Evening)"
     }
   ]
 }
