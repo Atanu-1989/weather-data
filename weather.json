@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "21-08-2026",
-  "forecast_period": "21 August (08.30IST) to 23 August (08.30IST) 2026",
+  "date": "23-08-2026",
+  "forecast_period": "23 August (08.30IST) to 25 August (08.30IST) 2026",
   "data": [
     {
-      "day": "21 August",
-      "rainfall": 6.1,
-      "tmax": 34.4,
-      "tmin": 26.9,
-      "rhmax": 95,
-      "rhmin": 69,
-      "wind": "25-30",
-      "warning": "Humid and humid condition likely to prevail. Thunderstorm expected in between 02:00-04:00 PM (Afternoon)."
-    },
-    {
-      "day": "22 August",
-      "rainfall": 4.5,
-      "tmax": 33.1,
-      "tmin": 26.0,
-      "rhmax": 95,
-      "rhmin": 71,
-      "wind": "25-30",
-      "warning": "Humid heat caution (Tw ≥ 28°C) during 12:00-01:00 PM (Afternoon); Light rainfall expected in between 01:00-03:00 PM (Afternoon)"
-    },
-    {
       "day": "23 August",
-      "rainfall": 2.4,
-      "tmax": 33.1,
+      "rainfall": 5.2,
+      "tmax": 32.9,
+      "tmin": 26.0,
+      "rhmax": 93,
+      "rhmin": 69,
+      "wind": "30-35",
+      "warning": "Light rainfall expected in between 01:00-04:00 PM (Afternoon)"
+    },
+    {
+      "day": "24 August",
+      "rainfall": 7.5,
+      "tmax": 32.2,
       "tmin": 25.9,
       "rhmax": 94,
-      "rhmin": 70,
-      "wind": "25-30",
-      "warning": "No Warning"
+      "rhmin": 74,
+      "wind": "30-35",
+      "warning": "Thunderstorm expected in between 12:00-03:00 PM (Afternoon)"
+    },
+    {
+      "day": "25 August",
+      "rainfall": 6.8,
+      "tmax": 31.9,
+      "tmin": 26.2,
+      "rhmax": 95,
+      "rhmin": 75,
+      "wind": "30-35",
+      "warning": "Thunderstorm expected in between 02:00-03:00 PM (Afternoon); Light rainfall expected in between 10:00 AM-01:00 PM (Morning/Afternoon)"
     }
   ]
 }
