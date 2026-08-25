@@ -1,37 +1,77 @@
 {
   "location": "Barasat",
-  "date": "23-08-2026",
-  "forecast_period": "23 August (08.30IST) to 25 August (08.30IST) 2026",
+  "date": "24-08-2026",
+  "forecast_period": "24 August (08.30IST) to 30 August (08.30IST) 2026",
   "data": [
     {
-      "day": "23 August",
-      "rainfall": 5.2,
-      "tmax": 32.9,
+      "day": "24 Aug",
+      "rainfall": 9.5,
+      "tmax": 31.5,
       "tmin": 26.0,
-      "rhmax": 93,
-      "rhmin": 69,
-      "wind": "30-35",
-      "warning": "Light rainfall expected in between 01:00-04:00 PM (Afternoon)"
-    },
-    {
-      "day": "24 August",
-      "rainfall": 7.5,
-      "tmax": 32.2,
-      "tmin": 25.9,
       "rhmax": 94,
-      "rhmin": 74,
-      "wind": "30-35",
-      "warning": "Thunderstorm expected in between 12:00-03:00 PM (Afternoon)"
+      "rhmin": 77,
+      "wind": "35-40",
+      "warning": "Thunderstorm expected in between 10:00 AM-02:00 PM (Morning/Afternoon); Light rainfall expected in between 03:00-04:00 PM (Afternoon)"
     },
     {
-      "day": "25 August",
-      "rainfall": 6.8,
-      "tmax": 31.9,
+      "day": "25 Aug",
+      "rainfall": 9.4,
+      "tmax": 32.0,
       "tmin": 26.2,
       "rhmax": 95,
-      "rhmin": 75,
+      "rhmin": 77,
+      "wind": "35-40",
+      "warning": "Severe thunderstorm expected in between 10:00 AM-03:00 PM (Morning/Afternoon)"
+    },
+    {
+      "day": "26 Aug",
+      "rainfall": 8.1,
+      "tmax": 32.7,
+      "tmin": 26.0,
+      "rhmax": 94,
+      "rhmin": 73,
+      "wind": "25-30",
+      "warning": "Light rainfall expected in between 08:00 AM-03:00 PM (Morning/Afternoon)"
+    },
+    {
+      "day": "27 Aug",
+      "rainfall": 12.0,
+      "tmax": 33.1,
+      "tmin": 25.5,
+      "rhmax": 95,
+      "rhmin": 72,
+      "wind": "25-30",
+      "warning": "Severe thunderstorm expected in between 02:00-03:00 PM (Afternoon); Light rainfall expected in between 08:00 AM-01:00 PM, 04:00 PM-12:00 AM (Morning/Afternoon/Evening/Night)"
+    },
+    {
+      "day": "28 Aug",
+      "rainfall": 11.0,
+      "tmax": 33.6,
+      "tmin": 26.2,
+      "rhmax": 94,
+      "rhmin": 72,
+      "wind": "25-30",
+      "warning": "Humid heat caution during 11:00 AM-02:00 PM (Morning/Afternoon); Thunderstorm expected in between 12:00-07:00 PM (Evening/Night); Hot and humid weather: It may feel very hot and muggy."
+    },
+    {
+      "day": "29 Aug",
+      "rainfall": 18.0,
+      "tmax": 32.7,
+      "tmin": 25.4,
+      "rhmax": 96,
+      "rhmin": 73,
+      "wind": "25-30",
+      "warning": "Humid heat caution during 12:00-02:00 PM (Afternoon); Severe thunderstorm expected in between 03:00 PM-08:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "30 Aug",
+      "rainfall": 11.0,
+      "tmax": 32.0,
+      "tmin": 25.8,
+      "rhmax": 97,
+      "rhmin": 74,
       "wind": "30-35",
-      "warning": "Thunderstorm expected in between 02:00-03:00 PM (Afternoon); Light rainfall expected in between 10:00 AM-01:00 PM (Morning/Afternoon)"
+      "warning": "Light rainfall expected in between 12:00-03:00 AM, 12:00 PM-06:00 PM (Night/Afternoon/Evening)"
     }
   ]
 }
