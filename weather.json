@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "29-08-2026",
-  "forecast_period": "29 August (08.30IST) to 31 August (08.30IST) 2026",
+  "date": "02-09-2026",
+  "forecast_period": "2nd September (08.30IST) to 4th September (08.30IST) 2026",
   "data": [
     {
-      "day": "29 August",
-      "rainfall": 16.0,
-      "tmax": 33.6,
-      "tmin": 26.3,
-      "rhmax": 95,
-      "rhmin": 71,
+      "day": "02 September",
+      "rainfall": 42.0,
+      "tmax": 29.4,
+      "tmin": 25.6,
+      "rhmax": 97,
+      "rhmin": 85,
       "wind": "20-25",
-      "warning": "Humid heat caution during 10:00 AM-04:00 PM (Morning/Afternoon)"
+      "warning": "Thunderstorm expected in between 10:30 AM-06:00 PM (Morning/Afternoon/Evening); Moderate rainfall expected in between 09:00 PM-12:00 AM (Night)"
     },
     {
-      "day": "30 August",
-      "rainfall": 8.5,
-      "tmax": 32.0,
-      "tmin": 26.0,
-      "rhmax": 96,
-      "rhmin": 75,
-      "wind": "25-30",
-      "warning": "Severe thunderstorm expected in between 01:00-07:00 PM (Afternoon/Evening)"
+      "day": "03 September",
+      "rainfall": 16.0,
+      "tmax": 33.0,
+      "tmin": 25.2,
+      "rhmax": 93,
+      "rhmin": 72,
+      "wind": "20-25",
+      "warning": "Severe thunderstorm expected in between 03:00-05:00 AM (Early Morning),Moderate rainfall expected in between 07:00 AM-10:00 AM"
     },
     {
-      "day": "31 August",
-      "rainfall": 14.0,
-      "tmax": 31.0,
-      "tmin": 25.9,
-      "rhmax": 96,
-      "rhmin": 79,
-      "wind": "25-30",
-      "warning": "Thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
+      "day": "04 September",
+      "rainfall": 8.6,
+      "tmax": 32.4,
+      "tmin": 25.7,
+      "rhmax": 91,
+      "rhmin": 73,
+      "wind": "20-25",
+      "warning": "Thunderstorm expected in between 01:00-05:00 PM (Afternoon); Light rainfall expected in between 06:00-07:00 PM (Evening)"
     }
   ]
 }
