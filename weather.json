@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "05-09-2026",
-  "forecast_period": "5 September (08.30IST) to 7 September (08.30IST) 2026",
+  "date": "06-09-2026",
+  "forecast_period": "6 September (08.30IST) to 8 September (08.30IST) 2026",
   "data": [
     {
-      "day": "05 September",
-      "rainfall": 4.0,
-      "tmax": 33.0,
-      "tmin": 25.5,
-      "rhmax": 91,
-      "rhmin": 72,
-      "wind": "20-25",
-      "warning": "60% Chance for light rainfall in between 02:00-05:00 PM (Afternoon)"
-    },
-    {
       "day": "06 September",
-      "rainfall": 3.2,
-      "tmax": 33.6,
-      "tmin": 26.0,
+      "rainfall": 8.4,
+      "tmax": 32.6,
+      "tmin": 25.5,
       "rhmax": 93,
-      "rhmin": 69,
-      "wind": "25-30",
-      "warning": "60% Chance for light rainfall in between 12:00-05:30 PM (Afternoon/Evening)"
+      "rhmin": 70,
+      "wind": "20-25",
+      "warning": "Light rainfall expected in between 11:00 AM-03:30 PM (Afternoon)"
     },
     {
       "day": "07 September",
-      "rainfall": 6.7,
-      "tmax": 32.9,
-      "tmin": 25.8,
-      "rhmax": 93,
+      "rainfall": 15.0,
+      "tmax": 33.0,
+      "tmin": 26.0,
+      "rhmax": 92,
       "rhmin": 75,
       "wind": "20-25",
-      "warning": "Light rainfall expected in between 06:00-09:00 AM (Morning), 05:00-08:00 PM (Evening)"
+      "warning": "Light rainfall expected in between 11:00 AM-03:30 PM (Afternoon)"
+    },
+    {
+      "day": "08 September",
+      "rainfall": 12.0,
+      "tmax": 31.9,
+      "tmin": 25.4,
+      "rhmax": 93,
+      "rhmin": 76,
+      "wind": "15-20",
+      "warning": "Thunderstorm expected in between 12:00-03:00 AM (Night); Light rainfall expected in between 12:00-06:00 PM (Afternoon/Evening)"
     }
   ]
 }
