@@ -1,77 +1,37 @@
 {
   "location": "Barasat",
-  "date": "07-09-2026",
-  "forecast_period": "7 September (08.30IST) to 13 September (08.30IST) 2026",
+  "date": "09-09-2026",
+  "forecast_period": "9th September (08.30IST) to 11th September (08.30IST) 2026",
   "data": [
     {
-      "day": "07 Sep",
-      "rainfall": 17.0,
-      "tmax": 32.0,
-      "tmin": 26.0,
-      "rhmax": 93,
-      "rhmin": 79,
-      "wind": "20-25",
+      "day": "09 September",
+      "rainfall": 2.8,
+      "tmax": 32.9,
+      "tmin": 25.3,
+      "rhmax": 95,
+      "rhmin": 69,
+      "wind": "15-20",
+      "warning": "Thunderstorm expected in between 12:00-04:30 PM (Afternoon)"
+    },
+    {
+      "day": "10 September",
+      "rainfall": 13.0,
+      "tmax": 32.9,
+      "tmin": 25.7,
+      "rhmax": 95,
+      "rhmin": 72,
+      "wind": "30-35",
       "warning": "Severe thunderstorm expected in between 02:00-06:00 PM (Afternoon/Evening)"
     },
     {
-      "day": "08 Sep",
-      "rainfall": 22.0,
-      "tmax": 32.3,
+      "day": "11 September",
+      "rainfall": 4.1,
+      "tmax": 31.7,
       "tmin": 25.5,
-      "rhmax": 95,
-      "rhmin": 74,
-      "wind": "15-20",
-      "warning": "Severe thunderstorm expected in between 04:00-07:00 AM (Early morning), 01:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "09 Sep",
-      "rainfall": 15.0,
-      "tmax": 31.3,
-      "tmin": 25.7,
-      "rhmax": 95,
-      "rhmin": 77,
-      "wind": "15-20",
-      "warning": "Thunderstorm expected in between 03:00-06:00 AM (Early Morning); Light rainfall expected in between 05:00-07:00 PM (Evening)"
-    },
-    {
-      "day": "10 Sep",
-      "rainfall": 7.8,
-      "tmax": 33.0,
-      "tmin": 25.5,
-      "rhmax": 94,
-      "rhmin": 73,
-      "wind": "25-30",
-      "warning": "Light rainfall expected in between 04:00-06:00 AM (Early Morning), 12:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "11 Sep",
-      "rainfall": 3.4,
-      "tmax": 32.8,
-      "tmin": 25.5,
-      "rhmax": 94,
-      "rhmin": 71,
-      "wind": "35-40",
-      "warning": "Light rainfall expected in between 12:00-03:00 PM (Afternoon) "
-    },
-    {
-      "day": "12 Sep",
-      "rainfall": 3.5,
-      "tmax": 32.2,
-      "tmin": 25.5,
-      "rhmax": 93,
-      "rhmin": 70,
-      "wind": "35-40",
-      "warning": "Light rainfall expected in between 12:00-03:00 PM (Afternoon) "
-    },
-    {
-      "day": "13 Sep",
-      "rainfall": 0.0,
-      "tmax": 32.6,
-      "tmin": 25.0,
       "rhmax": 92,
-      "rhmin": 68,
-      "wind": "20-25",
-      "warning": "No Warning"
+      "rhmin": 74,
+      "wind": "45-50",
+      "warning": "Thunderstorm expected in between 01:00-06:30 PM (Afternoon/Evening)"
     }
   ]
 }
