@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "13-09-2026",
-  "forecast_period": "13th September (08.30IST) to 15th September (08.30IST) 2026",
+  "date": "15-09-2026",
+  "forecast_period": "15th September (08.30IST) to 17th September (08.30IST) 2026",
   "data": [
-    {
-      "day": "13 September",
-      "rainfall": 7.7,
-      "tmax": 32.2,
-      "tmin": 24.8,
-      "rhmax": 93,
-      "rhmin": 73,
-      "wind": "20-25",
-      "warning": "Thunderstorm expected in between 01:00-05:00 PM (Afternoon)"
-    },
-    {
-      "day": "14 September",
-      "rainfall": 0.0,
-      "tmax": 34.0,
-      "tmin": 24.0,
-      "rhmax": 93,
-      "rhmin": 62,
-      "wind": "15-20",
-      "warning": "No Warning"
-    },
     {
       "day": "15 September",
       "rainfall": 0.0,
-      "tmax": 34.7,
+      "tmax": 35.1,
       "tmin": 25.1,
-      "rhmax": 83,
-      "rhmin": 61,
+      "rhmax": 85,
+      "rhmin": 60,
       "wind": "15-20",
       "warning": "No Warning"
+    },
+    {
+      "day": "16 September",
+      "rainfall": 0.0,
+      "tmax": 35.1,
+      "tmin": 25.1,
+      "rhmax": 83,
+      "rhmin": 59,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "17 September",
+      "rainfall": 16.0,
+      "tmax": 34.4,
+      "tmin": 25.8,
+      "rhmax": 87,
+      "rhmin": 68,
+      "wind": "20-25",
+      "warning": "Severe thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
     }
   ]
 }
