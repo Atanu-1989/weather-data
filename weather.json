@@ -1,77 +1,37 @@
 {
   "location": "Barasat",
-  "date": "21-09-2026",
-  "forecast_period": "21 September (08.30IST) to 27 September (08.30IST) 2026",
+  "date": "22-09-2026",
+  "forecast_period": "22 September (08.30IST) to 24 September (08.30IST) 2026",
   "data": [
     {
-      "day": "21 Sep",
-      "rainfall": 0.7,
-      "tmax": 34.2,
-      "tmin": 25.0,
-      "rhmax": 91,
-      "rhmin": 61,
-      "wind": "25-30",
-      "warning": "Light to Moderate rainfall expected in between 11:00 AM-04:30 PM (Afternoon)"
-    },
-    {
-      "day": "22 Sep",
-      "rainfall": 13.0,
-      "tmax": 33.2,
-      "tmin": 25.8,
-      "rhmax": 91,
-      "rhmin": 70,
-      "wind": "40-45",
-      "warning": "Severe thunderstorm expected in between 12:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "23 Sep",
-      "rainfall": 23.0,
-      "tmax": 31.7,
-      "tmin": 25.7,
+      "day": "22 September",
+      "rainfall": 11.0,
+      "tmax": 32.6,
+      "tmin": 25.9,
       "rhmax": 92,
-      "rhmin": 77,
-      "wind": "45-50",
-      "warning": "Thunderstorm expected in between 09:00 AM-06:00 PM (Morning/Afternoon); Moderate rainfall expected in between 09:00-11:00 PM (Night)"
+      "rhmin": 71,
+      "wind": "40-45",
+      "warning": "Severe thunderstorm expected in between 12:00-05:00 PM (Afternoon/Evening)"
     },
     {
-      "day": "24 Sep",
-      "rainfall": 18.0,
-      "tmax": 28.6,
-      "tmin": 25.0,
-      "rhmax": 95,
-      "rhmin": 85,
-      "wind": "50-55",
-      "warning": "Moderate rainfall expected in between 12:00-11:00 PM (Afternoon/Evening/Night); Gusty winds expected in between 12:00-02:00 PM (Afternoon)"
-    },
-    {
-      "day": "25 Sep",
-      "rainfall": 22.0,
-      "tmax": 30.1,
-      "tmin": 25.4,
+      "day": "23 September",
+      "rainfall": 23.0,
+      "tmax": 30.0,
+      "tmin": 25.8,
       "rhmax": 95,
       "rhmin": 82,
-      "wind": "50-55",
-      "warning": "Thunderstorm expected in between 03:00-06:00 AM (Early Morning), 09:00 AM-03:00 PM (Morning/Afternoon); Gusty winds expected in between 10:00 AM-02:00 PM (Morning/Afternoon)"
-    },
-    {
-      "day": "26 Sep",
-      "rainfall": 10.0,
-      "tmax": 30.6,
-      "tmin": 25.2,
-      "rhmax": 94,
-      "rhmin": 79,
       "wind": "45-50",
-      "warning": "Thunderstorm expected in between 12:00-03:00 PM (Afternoon)"
+      "warning": "Moderate rain with thunder expected in between 10:00 AM-05:00 PM (Morning/Afternoon), 09:00-11:00 PM (Night)"
     },
     {
-      "day": "27 Sep",
-      "rainfall": 2.4,
-      "tmax": 32.5,
-      "tmin": 24.5,
-      "rhmax": 94,
-      "rhmin": 70,
-      "wind": "25-30",
-      "warning": "Light rainfall expected in between 02:00-04:00 PM (Afternoon)"
+      "day": "24 September",
+      "rainfall": 22.0,
+      "tmax": 28.4,
+      "tmin": 25.3,
+      "rhmax": 95,
+      "rhmin": 88,
+      "wind": "45-50",
+      "warning": "Moderate rain with thunder expected whole day"
     }
   ]
 }
