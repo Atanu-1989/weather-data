@@ -1,36 +1,36 @@
 {
   "location": "Barasat",
-  "date": "26-09-2026",
-  "forecast_period": "26th September (08.30IST) to 28th September (08.30IST) 2026",
+  "date": "27-09-2026",
+  "forecast_period": "27th September (08.30IST) to 29th September (08.30IST) 2026",
   "data": [
     {
-      "day": "26 Sep",
-      "rainfall": 9.9,
-      "tmax": 31.9,
-      "tmin": 24.8,
-      "rhmax": 92,
-      "rhmin": 75,
-      "wind": "40-45",
-      "warning": "Severe thunderstorm expected in between 12:00-01:00 PM (Afternoon); Light rainfall expected in between 02:00-04:00 PM (Afternoon)"
-    },
-    {
       "day": "27 Sep",
-      "rainfall": 0.0,
-      "tmax": 33.2,
-      "tmin": 24.9,
-      "rhmax": 94,
-      "rhmin": 69,
+      "rainfall": 3.0,
+      "tmax": 33.6,
+      "tmin": 24.6,
+      "rhmax": 92,
+      "rhmin": 66,
       "wind": "15-20",
-      "warning": "No Warning"
+      "warning": "Light rainfall expected in between 02:00-04:00 PM (Afternoon)"
     },
     {
       "day": "28 Sep",
       "rainfall": 0.0,
-      "tmax": 34.1,
-      "tmin": 24.5,
+      "tmax": 34.4,
+      "tmin": 24.3,
       "rhmax": 90,
-      "rhmin": 61,
-      "wind": "15-20",
+      "rhmin": 59,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "29 Sep",
+      "rainfall": 0.0,
+      "tmax": 34.6,
+      "tmin": 24.3,
+      "rhmax": 83,
+      "rhmin": 56,
+      "wind": "25-30",
       "warning": "No Warning"
     }
   ]
