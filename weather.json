@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "27-09-2026",
-  "forecast_period": "27th September (08.30IST) to 29th September (08.30IST) 2026",
+  "date": "30-09-2026",
+  "forecast_period": "30th September (08.30IST) to 2nd October (08.30IST) 2026",
   "data": [
     {
-      "day": "27 Sep",
-      "rainfall": 3.0,
-      "tmax": 33.6,
-      "tmin": 24.6,
-      "rhmax": 92,
-      "rhmin": 66,
-      "wind": "15-20",
-      "warning": "Light rainfall expected in between 02:00-04:00 PM (Afternoon)"
-    },
-    {
-      "day": "28 Sep",
+      "day": "30 Sep",
       "rainfall": 0.0,
-      "tmax": 34.4,
-      "tmin": 24.3,
-      "rhmax": 90,
-      "rhmin": 59,
+      "tmax": 34.3,
+      "tmin": 24.5,
+      "rhmax": 83,
+      "rhmin": 54,
       "wind": "20-25",
       "warning": "No Warning"
     },
     {
-      "day": "29 Sep",
-      "rainfall": 0.0,
-      "tmax": 34.6,
-      "tmin": 24.3,
-      "rhmax": 83,
+      "day": "01 Oct",
+      "rainfall": 0.3,
+      "tmax": 34.4,
+      "tmin": 24.6,
+      "rhmax": 82,
       "rhmin": 56,
-      "wind": "25-30",
-      "warning": "No Warning"
+      "wind": "15-20",
+      "warning": "Drizzle/light rain of 0.3 mm expected in between 09:00 AM-12:00 PM (Morning), 08:00-09:00 PM (Evening)"
+    },
+    {
+      "day": "02 Oct",
+      "rainfall": 0.5,
+      "tmax": 34.5,
+      "tmin": 24.4,
+      "rhmax": 85,
+      "rhmin": 59,
+      "wind": "15-20",
+      "warning": "Drizzle/light rain of 0.5 mm expected in between 12:00-03:00 AM (Night), 09:00 AM-06:00 PM (Morning/Afternoon/Evening)"
     }
   ]
 }
