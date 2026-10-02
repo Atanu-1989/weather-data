@@ -1,36 +1,36 @@
 {
   "location": "Barasat",
-  "date": "01-10-2026",
-  "forecast_period": "1st October (08.30IST) to 3rd October (08.30IST) 2026",
+  "date": "02-10-2026",
+  "forecast_period": "2nd October (08.30IST) to 4th October (08.30IST) 2026",
   "data": [
-    {
-      "day": "01 Oct",
-      "rainfall": 0.9,
-      "tmax": 34.3,
-      "tmin": 25.0,
-      "rhmax": 87,
-      "rhmin": 57,
-      "wind": "20-25",
-      "warning": "Drizzle/light rain of 0.9 mm expected in between 01:00-04:00 PM (Afternoon)"
-    },
     {
       "day": "02 Oct",
       "rainfall": 0.3,
-      "tmax": 34.0,
-      "tmin": 24.5,
-      "rhmax": 85,
-      "rhmin": 58,
+      "tmax": 33.9,
+      "tmin": 25.0,
+      "rhmax": 88,
+      "rhmin": 59,
       "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.3 mm expected in between 03:00-07:00 PM (Afternoon/Evening)"
+      "warning": "Drizzle/light rain of 0.3 mm expected in between 08:00 AM-04:00 PM (Morning/Afternoon)"
     },
     {
       "day": "03 Oct",
       "rainfall": 0.0,
-      "tmax": 34.9,
-      "tmin": 23.9,
-      "rhmax": 86,
-      "rhmin": 55,
+      "tmax": 35.0,
+      "tmin": 24.0,
+      "rhmax": 84,
+      "rhmin": 54,
       "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "04 Oct",
+      "rainfall": 0.0,
+      "tmax": 34.8,
+      "tmin": 24.0,
+      "rhmax": 84,
+      "rhmin": 56,
+      "wind": "15-20",
       "warning": "No Warning"
     }
   ]
