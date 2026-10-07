@@ -1,77 +1,37 @@
 {
   "location": "Barasat",
-  "date": "05-10-2026",
-  "forecast_period": "5th October (08.30IST) to 11th October (08.30IST) 2026",
+  "date": "07-10-2026",
+  "forecast_period": "7th October (08.30IST) to 9th October (08.30IST) 2026",
   "data": [
     {
-      "day": "05 Oct",
-      "rainfall": 0.3,
-      "tmax": 34.9,
-      "tmin": 24.0,
-      "rhmax": 83,
-      "rhmin": 52,
-      "wind": "15-20",
-      "warning": "Short spell of thunderstorm activity expected in between 09:00 AM-12:00 PM (Morning), 03:00-04:00 PM (Afternoon)"
-    },
-    {
-      "day": "06 Oct",
-      "rainfall": 1.4,
-      "tmax": 34.3,
-      "tmin": 22.6,
-      "rhmax": 86,
-      "rhmin": 58,
-      "wind": "15-20",
-      "warning": "Thunderstorm activity expected in between 01:00-07:00 PM (Afternoon/Evening)"
-    },
-    {
       "day": "07 Oct",
-      "rainfall": 6.4,
-      "tmax": 33.3,
-      "tmin": 23.2,
+      "rainfall": 1.9,
+      "tmax": 33.8,
+      "tmin": 23.4,
       "rhmax": 88,
-      "rhmin": 62,
+      "rhmin": 59,
       "wind": "15-20",
-      "warning": "Light rainfall of 6.4 mm with thunder expected in between 01:00-06:00 PM (Afternoon/Evening)"
+      "warning": "Thunderstorm activity expected in between 11:00 AM-01:00 PM (Afternoon), 03:00-07:00 PM (Afternoon/Evening)"
     },
     {
       "day": "08 Oct",
-      "rainfall": 5.7,
-      "tmax": 31.8,
-      "tmin": 23.1,
-      "rhmax": 89,
-      "rhmin": 67,
-      "wind": "20-25",
-      "warning": "Light rainfall of 5.7 mm with thunder expected in between 12:00-06:00 PM (Afternoon/Evening)"
+      "rainfall": 1.8,
+      "tmax": 32.8,
+      "tmin": 23.0,
+      "rhmax": 88,
+      "rhmin": 63,
+      "wind": "15-20",
+      "warning": "Thunderstorm activity expected in between 03:00-05:00 PM (Afternoon), 08:00 PM-12:00 AM (Evening/Night)"
     },
     {
       "day": "09 Oct",
-      "rainfall": 2.7,
-      "tmax": 32.0,
-      "tmin": 22.3,
-      "rhmax": 85,
-      "rhmin": 64,
+      "rainfall": 10.0,
+      "tmax": 31.0,
+      "tmin": 22.4,
+      "rhmax": 92,
+      "rhmin": 70,
       "wind": "15-20",
-      "warning": "Light rainfall of 2.7 mm with thunder expected in between 12:00-06:00 AM (Night), 12:00-03:00 PM (Afternoon)"
-    },
-    {
-      "day": "10 Oct",
-      "rainfall": 0.7,
-      "tmax": 32.5,
-      "tmin": 22.2,
-      "rhmax": 90,
-      "rhmin": 60,
-      "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.7 mm expected in between 12:00 AM-06:00 PM (Night/Morning/Afternoon/Evening)"
-    },
-    {
-      "day": "11 Oct",
-      "rainfall": 0.0,
-      "tmax": 33.5,
-      "tmin": 22.0,
-      "rhmax": 77,
-      "rhmin": 58,
-      "wind": "20-25",
-      "warning": "No Warning"
+      "warning": "Thunderstorm expected in between 12:00-03:00 AM (Night); Light rainfall of 10 mm expected in between 04:00-09:00 AM (Night/Morning)"
     }
   ]
 }
