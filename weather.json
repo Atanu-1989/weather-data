@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "07-10-2026",
-  "forecast_period": "7th October (08.30IST) to 9th October (08.30IST) 2026",
+  "date": "08-10-2026",
+  "forecast_period": "8th October (08.30IST) to 10th October (08.30IST) 2026",
   "data": [
     {
-      "day": "07 Oct",
-      "rainfall": 1.9,
-      "tmax": 33.8,
-      "tmin": 23.4,
-      "rhmax": 88,
-      "rhmin": 59,
-      "wind": "15-20",
-      "warning": "Thunderstorm activity expected in between 11:00 AM-01:00 PM (Afternoon), 03:00-07:00 PM (Afternoon/Evening)"
-    },
-    {
       "day": "08 Oct",
-      "rainfall": 1.8,
-      "tmax": 32.8,
-      "tmin": 23.0,
-      "rhmax": 88,
-      "rhmin": 63,
-      "wind": "15-20",
-      "warning": "Thunderstorm activity expected in between 03:00-05:00 PM (Afternoon), 08:00 PM-12:00 AM (Evening/Night)"
+      "rainfall": 11.0,
+      "tmax": 32.5,
+      "tmin": 22.9,
+      "rhmax": 92,
+      "rhmin": 64,
+      "wind": "25-30",
+      "warning": "Thunderstorm expected in between 12:00-07:00 PM (Afternoon), 09:00-10:00 PM (Night)"
     },
     {
       "day": "09 Oct",
-      "rainfall": 10.0,
-      "tmax": 31.0,
-      "tmin": 22.4,
-      "rhmax": 92,
-      "rhmin": 70,
+      "rainfall": 2.5,
+      "tmax": 30.9,
+      "tmin": 22.6,
+      "rhmax": 93,
+      "rhmin": 69,
       "wind": "15-20",
-      "warning": "Thunderstorm expected in between 12:00-03:00 AM (Night); Light rainfall of 10 mm expected in between 04:00-09:00 AM (Night/Morning)"
+      "warning": "Thunderstorm expected in between 01:00-03:00 AM (Night), 09:00-11:00 AM (Morning)"
+    },
+    {
+      "day": "10 Oct",
+      "rainfall": 0.5,
+      "tmax": 32.3,
+      "tmin": 22.0,
+      "rhmax": 89,
+      "rhmin": 62,
+      "wind": "15-20",
+      "warning": "Drizzle/light rain of 0.5 mm expected in between 12:00-04:00 AM (Night)"
     }
   ]
 }
