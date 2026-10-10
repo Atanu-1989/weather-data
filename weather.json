@@ -1,35 +1,35 @@
 {
   "location": "Barasat",
-  "date": "09-10-2026",
-  "forecast_period": "9th October (08.30IST) to 11th October (08.30IST) 2026",
+  "date": "10-10-2026",
+  "forecast_period": "10th October (08.30IST) to 12th October (08.30IST) 2026",
   "data": [
     {
-      "day": "09 Oct",
-      "rainfall": 1.2,
-      "tmax": 31.7,
-      "tmin": 22.0,
-      "rhmax": 89,
-      "rhmin": 63,
-      "wind": "15-20",
-      "warning": "Thunderstorm activity expected in between 11:00 AM-01:00 PM (Afternoon), 03:30-06:00 PM (Afternoon/Evening)"
-    },
-    {
       "day": "10 Oct",
-      "rainfall": 0.7,
-      "tmax": 32.3,
-      "tmin": 22.2,
+      "rainfall": 0.2,
+      "tmax": 32.7,
+      "tmin": 21.8,
       "rhmax": 86,
-      "rhmin": 59,
+      "rhmin": 56,
       "wind": "15-20",
-      "warning": "Thunderstorm activity expected in between 11:00 AM-03:00 PM (Morning/Afternoon)"
+      "warning": "60% chance for short spell of thunderstorm activity in between 02:30-04:45 PM (Afternoon)"
     },
     {
       "day": "11 Oct",
-      "rainfall": 0.0,
-      "tmax": 33.7,
-      "tmin": 21.8,
-      "rhmax": 80,
+      "rainfall": 0.4,
+      "tmax": 33.4,
+      "tmin": 22.1,
+      "rhmax": 79,
       "rhmin": 55,
+      "wind": "15-20",
+      "warning": "Drizzle/light rain of 0.3 mm expected in between 09:00 AM-04:00 PM (Morning/Afternoon)"
+    },
+    {
+      "day": "12 Oct",
+      "rainfall": 0.0,
+      "tmax": 34.9,
+      "tmin": 21.9,
+      "rhmax": 78,
+      "rhmin": 51,
       "wind": "15-20",
       "warning": "No Warning"
     }
