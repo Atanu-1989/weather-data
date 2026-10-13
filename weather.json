@@ -1,36 +1,76 @@
 {
   "location": "Barasat",
-  "date": "10-10-2026",
-  "forecast_period": "10th October (08.30IST) to 12th October (08.30IST) 2026",
+  "date": "12-10-2026",
+  "forecast_period": "12th October (08.30IST) to 18th October (08.30IST) 2026",
   "data": [
-    {
-      "day": "10 Oct",
-      "rainfall": 0.2,
-      "tmax": 32.7,
-      "tmin": 21.8,
-      "rhmax": 86,
-      "rhmin": 56,
-      "wind": "15-20",
-      "warning": "60% chance for short spell of thunderstorm activity in between 02:30-04:45 PM (Afternoon)"
-    },
-    {
-      "day": "11 Oct",
-      "rainfall": 0.4,
-      "tmax": 33.4,
-      "tmin": 22.1,
-      "rhmax": 79,
-      "rhmin": 55,
-      "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.3 mm expected in between 09:00 AM-04:00 PM (Morning/Afternoon)"
-    },
     {
       "day": "12 Oct",
       "rainfall": 0.0,
-      "tmax": 34.9,
-      "tmin": 21.9,
-      "rhmax": 78,
-      "rhmin": 51,
+      "tmax": 34.4,
+      "tmin": 22.4,
+      "rhmax": 79,
+      "rhmin": 53,
       "wind": "15-20",
+      "warning": "No Warning"
+    },
+    {
+      "day": "13 Oct",
+      "rainfall": 0.0,
+      "tmax": 34.8,
+      "tmin": 22.7,
+      "rhmax": 76,
+      "rhmin": 51,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "14 Oct",
+      "rainfall": 0.4,
+      "tmax": 33.7,
+      "tmin": 24.0,
+      "rhmax": 79,
+      "rhmin": 56,
+      "wind": "15-20",
+      "warning": "Thunderstorm activity expected in between 03:00 PM-06:00 PM (Afternoon/Evening)"
+    },
+    {
+      "day": "15 Oct",
+      "rainfall": 1.3,
+      "tmax": 33.5,
+      "tmin": 23.3,
+      "rhmax": 86,
+      "rhmin": 60,
+      "wind": "15-20",
+      "warning": "Thunderstorm activity expected in between 02:00-04:00 AM (Night), 09:00 AM-06:00 PM (Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "16 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.9,
+      "tmin": 23.0,
+      "rhmax": 84,
+      "rhmin": 60,
+      "wind": "15-20",
+      "warning": "No Warning"
+    },
+    {
+      "day": "17 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.8,
+      "tmin": 22.8,
+      "rhmax": 86,
+      "rhmin": 56,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "18 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.1,
+      "tmin": 23.1,
+      "rhmax": 81,
+      "rhmin": 57,
+      "wind": "20-25",
       "warning": "No Warning"
     }
   ]
