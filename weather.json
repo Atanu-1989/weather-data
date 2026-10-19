@@ -1,37 +1,77 @@
 {
   "location": "Barasat",
-  "date": "13-10-2026",
-  "forecast_period": "13th October (08.30IST) to 15th October (08.30IST) 2026",
+  "date": "19-10-2026",
+  "forecast_period": "19th October (08.30IST) to 25th October (08.30IST) 2026",
   "data": [
     {
-      "day": "13 Oct",
+      "day": "19 Oct",
       "rainfall": 0.0,
-      "tmax": 34.7,
-      "tmin": 23.1,
-      "rhmax": 74,
-      "rhmin": 51,
+      "tmax": 33.7,
+      "tmin": 22.4,
+      "rhmax": 75,
+      "rhmin": 48,
+      "wind": "25-30",
+      "warning": "No Warning"
+    },
+    {
+      "day": "20 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.1,
+      "tmin": 20.6,
+      "rhmax": 73,
+      "rhmin": 47,
       "wind": "20-25",
       "warning": "No Warning"
     },
     {
-      "day": "14 Oct",
+      "day": "21 Oct",
       "rainfall": 0.0,
-      "tmax": 34.8,
-      "tmin": 23.4,
-      "rhmax": 78,
-      "rhmin": 52,
+      "tmax": 33.3,
+      "tmin": 19.9,
+      "rhmax": 71,
+      "rhmin": 48,
       "wind": "20-25",
       "warning": "No Warning"
     },
     {
-      "day": "15 Oct",
-      "rainfall": 0.3,
-      "tmax": 34.2,
-      "tmin": 23.7,
-      "rhmax": 76,
-      "rhmin": 55,
+      "day": "22 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.4,
+      "tmin": 20.1,
+      "rhmax": 72,
+      "rhmin": 46,
       "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.3 mm expected in between 03:00-06:00 PM (Afternoon/Evening)"
+      "warning": "No Warning"
+    },
+    {
+      "day": "23 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.5,
+      "tmin": 19.7,
+      "rhmax": 76,
+      "rhmin": 47,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "24 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.2,
+      "tmin": 19.4,
+      "rhmax": 80,
+      "rhmin": 48,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "25 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.1,
+      "tmin": 19.3,
+      "rhmax": 74,
+      "rhmin": 46,
+      "wind": "25-30",
+      "warning": "No Warning"
     }
   ]
 }
