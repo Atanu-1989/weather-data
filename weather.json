@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "22-10-2026",
-  "forecast_period": "22nd October (08.30IST) to 24th October (08.30IST) 2026",
+  "date": "24-10-2026",
+  "forecast_period": "24th October (08.30IST) to 26th October (08.30IST) 2026",
   "data": [
     {
-      "day": "22 Oct",
+      "day": "24 Oct",
       "rainfall": 0.0,
-      "tmax": 33.4,
-      "tmin": 22.3,
-      "rhmax": 74,
-      "rhmin": 52,
-      "wind": "20-25",
-      "warning": "No Warning"
-    },
-    {
-      "day": "23 Oct",
-      "rainfall": 0.0,
-      "tmax": 33.2,
-      "tmin": 21.0,
-      "rhmax": 74,
+      "tmax": 32.3,
+      "tmin": 20.9,
+      "rhmax": 73,
       "rhmin": 48,
       "wind": "20-25",
       "warning": "No Warning"
     },
     {
-      "day": "24 Oct",
+      "day": "25 Oct",
       "rainfall": 0.0,
-      "tmax": 32.9,
-      "tmin": 20.0,
-      "rhmax": 70,
-      "rhmin": 45,
-      "wind": "20-25",
+      "tmax": 32.6,
+      "tmin": 20.3,
+      "rhmax": 73,
+      "rhmin": 46,
+      "wind": "25-30",
+      "warning": "No Warning"
+    },
+    {
+      "day": "26 Oct",
+      "rainfall": 0.0,
+      "tmax": 33.3,
+      "tmin": 19.8,
+      "rhmax": 69,
+      "rhmin": 47,
+      "wind": "25-30",
       "warning": "No Warning"
     }
   ]
-}
+}v
