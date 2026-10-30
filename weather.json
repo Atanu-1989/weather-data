@@ -1,77 +1,37 @@
 {
   "location": "Barasat",
-  "date": "26-10-2026",
-  "forecast_period": "26th October (08.30IST) to 1st November (08.30IST) 2026",
+  "date": "30-10-2026",
+  "forecast_period": "30th October (08.30IST) to 1st November (08.30IST) 2026",
   "data": [
     {
-      "day": "26 Oct",
-      "rainfall": 0.0,
-      "tmax": 33.6,
-      "tmin": 21.7,
-      "rhmax": 72,
-      "rhmin": 51,
-      "wind": "25-30",
-      "warning": "No Warning"
-    },
-    {
-      "day": "27 Oct",
-      "rainfall": 2.8,
-      "tmax": 33.8,
-      "tmin": 23.5,
-      "rhmax": 85,
-      "rhmin": 57,
-      "wind": "25-30",
-      "warning": "Light rainfall of 2.8 mm expected in between 03:00-05:00 PM (Afternoon)"
-    },
-    {
-      "day": "28 Oct",
-      "rainfall": 2.9,
-      "tmax": 31.2,
-      "tmin": 24.1,
-      "rhmax": 96,
-      "rhmin": 72,
-      "wind": "25-30",
-      "warning": "Light rainfall of 2.9 mm expected in between 04:00 AM-06:00 PM (Night/Morning/Afternoon/Evening)"
-    },
-    {
-      "day": "29 Oct",
-      "rainfall": 4.7,
-      "tmax": 31.5,
-      "tmin": 23.7,
-      "rhmax": 96,
-      "rhmin": 70,
-      "wind": "30-35",
-      "warning": "Light rainfall of 4.7 mm expected in between 03:00-06:00 AM (Night), 12:00 PM-12:00 AM (Afternoon/Evening/Night)"
-    },
-    {
       "day": "30 Oct",
-      "rainfall": 6.4,
-      "tmax": 29.0,
-      "tmin": 23.7,
+      "rainfall": 12.0,
+      "tmax": 29.7,
+      "tmin": 23.6,
       "rhmax": 96,
-      "rhmin": 80,
-      "wind": "30-35",
-      "warning": "Light rainfall of 6.4 mm expected in between 01:00-03:00 AM (Night), 06:00 AM-12:00 PM (Morning)"
+      "rhmin": 75,
+      "wind": "20-25",
+      "warning": "Light rainfall of 12 mm expected in between 12:00-06:00 PM (Afternoon/Evening)"
     },
     {
       "day": "31 Oct",
-      "rainfall": 0.7,
-      "tmax": 31.4,
-      "tmin": 22.9,
+      "rainfall": 7.0,
+      "tmax": 31.3,
+      "tmin": 22.8,
       "rhmax": 96,
-      "rhmin": 68,
-      "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.7 mm expected in between 03:00-06:00 PM (Afternoon/Evening)"
+      "rhmin": 70,
+      "wind": "10-15",
+      "warning": "Light rainfall of 7 mm expected in between 11:00 AM-05:00 PM (Morning/Afternoon)"
     },
     {
       "day": "01 Nov",
-      "rainfall": 2.2,
-      "tmax": 30.7,
-      "tmin": 23.2,
-      "rhmax": 93,
-      "rhmin": 71,
-      "wind": "25-30",
-      "warning": "Drizzle/light rain of 2.2 mm expected in between 06:00 AM-06:00 PM (Morning/Afternoon/Evening)"
+      "rainfall": 0.5,
+      "tmax": 32.7,
+      "tmin": 22.9,
+      "rhmax": 91,
+      "rhmin": 61,
+      "wind": "15-20",
+      "warning": "Drizzle/light rain of 0.5 mm expected in between 06:00 AM-12:00 PM (Morning), 09:00 PM-12:00 AM (Night)"
     }
   ]
 }
