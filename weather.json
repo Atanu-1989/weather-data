@@ -1,37 +1,77 @@
 {
   "location": "Barasat",
-  "date": "30-10-2026",
-  "forecast_period": "30th October (08.30IST) to 1st November (08.30IST) 2026",
+  "date": "02-11-2026",
+  "forecast_period": "2nd November (08.30IST) to 8th November (08.30IST) 2026",
   "data": [
     {
-      "day": "30 Oct",
-      "rainfall": 12.0,
-      "tmax": 29.7,
-      "tmin": 23.6,
-      "rhmax": 96,
-      "rhmin": 75,
-      "wind": "20-25",
-      "warning": "Light rainfall of 12 mm expected in between 12:00-06:00 PM (Afternoon/Evening)"
-    },
-    {
-      "day": "31 Oct",
-      "rainfall": 7.0,
-      "tmax": 31.3,
-      "tmin": 22.8,
-      "rhmax": 96,
-      "rhmin": 70,
-      "wind": "10-15",
-      "warning": "Light rainfall of 7 mm expected in between 11:00 AM-05:00 PM (Morning/Afternoon)"
-    },
-    {
-      "day": "01 Nov",
-      "rainfall": 0.5,
-      "tmax": 32.7,
-      "tmin": 22.9,
-      "rhmax": 91,
+      "day": "02 Nov",
+      "rainfall": 0.6,
+      "tmax": 32.0,
+      "tmin": 23.5,
+      "rhmax": 90,
       "rhmin": 61,
       "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.5 mm expected in between 06:00 AM-12:00 PM (Morning), 09:00 PM-12:00 AM (Night)"
+      "warning": "Drizzle/light rain of 0.6 mm expected in between 08:00 AM-06:00 PM (Morning/Afternoon/Evening)"
+    },
+    {
+      "day": "03 Nov",
+      "rainfall": 0.0,
+      "tmax": 32.4,
+      "tmin": 23.7,
+      "rhmax": 84,
+      "rhmin": 58,
+      "wind": "15-20",
+      "warning": "No Warning"
+    },
+    {
+      "day": "04 Nov",
+      "rainfall": 0.0,
+      "tmax": 31.8,
+      "tmin": 22.6,
+      "rhmax": 78,
+      "rhmin": 52,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "05 Nov",
+      "rainfall": 0.0,
+      "tmax": 31.8,
+      "tmin": 21.4,
+      "rhmax": 74,
+      "rhmin": 49,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "06 Nov",
+      "rainfall": 0.0,
+      "tmax": 31.6,
+      "tmin": 19.6,
+      "rhmax": 68,
+      "rhmin": 47,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "07 Nov",
+      "rainfall": 0.0,
+      "tmax": 31.4,
+      "tmin": 17.5,
+      "rhmax": 68,
+      "rhmin": 43,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "08 Nov",
+      "rainfall": 0.0,
+      "tmax": 31.6,
+      "tmin": 16.6,
+      "rhmax": 62,
+      "rhmin": 44,
+      "wind": "15-20",
+      "warning": "No Warning"
     }
   ]
 }
