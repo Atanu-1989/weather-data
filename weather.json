@@ -1,65 +1,25 @@
 {
   "location": "Barasat",
-  "date": "02-11-2026",
-  "forecast_period": "2nd November (08.30IST) to 8th November (08.30IST) 2026",
+  "date": "06-11-2026",
+  "forecast_period": "6th November (08.30IST) to 8th November (08.30IST) 2026",
   "data": [
-    {
-      "day": "02 Nov",
-      "rainfall": 0.6,
-      "tmax": 32.0,
-      "tmin": 23.5,
-      "rhmax": 90,
-      "rhmin": 61,
-      "wind": "15-20",
-      "warning": "Drizzle/light rain of 0.6 mm expected in between 08:00 AM-06:00 PM (Morning/Afternoon/Evening)"
-    },
-    {
-      "day": "03 Nov",
-      "rainfall": 0.0,
-      "tmax": 32.4,
-      "tmin": 23.7,
-      "rhmax": 84,
-      "rhmin": 58,
-      "wind": "15-20",
-      "warning": "No Warning"
-    },
-    {
-      "day": "04 Nov",
-      "rainfall": 0.0,
-      "tmax": 31.8,
-      "tmin": 22.6,
-      "rhmax": 78,
-      "rhmin": 52,
-      "wind": "20-25",
-      "warning": "No Warning"
-    },
-    {
-      "day": "05 Nov",
-      "rainfall": 0.0,
-      "tmax": 31.8,
-      "tmin": 21.4,
-      "rhmax": 74,
-      "rhmin": 49,
-      "wind": "20-25",
-      "warning": "No Warning"
-    },
     {
       "day": "06 Nov",
       "rainfall": 0.0,
-      "tmax": 31.6,
-      "tmin": 19.6,
-      "rhmax": 68,
-      "rhmin": 47,
-      "wind": "20-25",
+      "tmax": 32.0,
+      "tmin": 20.7,
+      "rhmax": 73,
+      "rhmin": 49,
+      "wind": "25-30",
       "warning": "No Warning"
     },
     {
       "day": "07 Nov",
       "rainfall": 0.0,
-      "tmax": 31.4,
-      "tmin": 17.5,
-      "rhmax": 68,
-      "rhmin": 43,
+      "tmax": 31.6,
+      "tmin": 18.9,
+      "rhmax": 64,
+      "rhmin": 45,
       "wind": "20-25",
       "warning": "No Warning"
     },
@@ -67,10 +27,10 @@
       "day": "08 Nov",
       "rainfall": 0.0,
       "tmax": 31.6,
-      "tmin": 16.6,
+      "tmin": 17.9,
       "rhmax": 62,
-      "rhmin": 44,
-      "wind": "15-20",
+      "rhmin": 45,
+      "wind": "20-25",
       "warning": "No Warning"
     }
   ]
