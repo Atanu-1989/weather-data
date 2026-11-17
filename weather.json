@@ -1,37 +1,37 @@
 {
   "location": "Barasat",
-  "date": "06-11-2026",
-  "forecast_period": "6th November (08.30IST) to 8th November (08.30IST) 2026",
+  "date": "17-11-2026",
+  "forecast_period": "17th November (08.30IST) to 19th November (08.30IST) 2026",
   "data": [
     {
-      "day": "06 Nov",
+      "day": "17 Nov",
       "rainfall": 0.0,
-      "tmax": 32.0,
-      "tmin": 20.7,
-      "rhmax": 73,
-      "rhmin": 49,
+      "tmax": 30.7,
+      "tmin": 19.1,
+      "rhmax": 87,
+      "rhmin": 48,
+      "wind": "20-25",
+      "warning": "No Warning"
+    },
+    {
+      "day": "18 Nov",
+      "rainfall": 0.0,
+      "tmax": 29.1,
+      "tmin": 17.2,
+      "rhmax": 62,
+      "rhmin": 42,
       "wind": "25-30",
       "warning": "No Warning"
     },
     {
-      "day": "07 Nov",
-      "rainfall": 0.0,
-      "tmax": 31.6,
-      "tmin": 18.9,
-      "rhmax": 64,
-      "rhmin": 45,
-      "wind": "20-25",
-      "warning": "No Warning"
-    },
-    {
-      "day": "08 Nov",
-      "rainfall": 0.0,
-      "tmax": 31.6,
-      "tmin": 17.9,
-      "rhmax": 62,
-      "rhmin": 45,
-      "wind": "20-25",
-      "warning": "No Warning"
+      "day": "19 Nov",
+      "rainfall": 13.0,
+      "tmax": 25.7,
+      "tmin": 19.9,
+      "rhmax": 95,
+      "rhmin": 60,
+      "wind": "15-20",
+      "warning": "Light rainfall of 13 mm expected in between 03:00-09:00 AM (Night/Morning), 12:00 PM-12:00 AM (Afternoon/Evening/Night)"
     }
   ]
 }
